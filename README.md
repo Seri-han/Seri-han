@@ -1,6 +1,6 @@
 # Hi there, I'm Sarah Handal 👋
 
-🎯 **Full Stack Web Developer** | Currently wrapping up the TripleTen Bootcamp (July 2025)  
+🎯 **Full Stack Web Developer**
 💡 Passionate about creating **accessible, responsive**, and intuitive web experiences.  
 🛠️ Turning ideas into clean code using **JavaScript**, **React**, **CSS**, **HTML**, and **MongoDB**.
 
