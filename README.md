@@ -13,7 +13,7 @@
 * ⚛️ React
 * ▲ Next.js
 * 🔷 TypeScript
-* 🎨 HTML5, CSS3 (BEM)
+* 🎨 HTML5, CSS3 (BEM), Tailwind CSS
 * 📱 Responsive Design & Accessibility
 
 ### ⚙️ Backend
@@ -52,7 +52,7 @@
 
 > A modern web application exploring server-side rendering and performance optimization with Next.js.
 
-* 🔧 Tech: Next.js, React, TypeScript
+* 🔧 Tech: Next.js, React, TypeScript, Tailwind CSS
 * 🧠 Focus: SSR, routing, performance
 * ⚡ Features: File-based routing, optimized rendering
 
