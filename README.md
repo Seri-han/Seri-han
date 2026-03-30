@@ -1,32 +1,75 @@
 # Hi there, I'm Sarah Handal 👋
 
-🎯 **Full Stack Web Developer**
-💡 Passionate about creating **accessible, responsive**, and intuitive web experiences.  
-🛠️ Turning ideas into clean code using **JavaScript**, **React**, **CSS**, **HTML**, and **MongoDB**.
+🚀 **Full Stack Developer**
+💡 I build **scalable, performant, and user-focused web applications** with modern technologies.
+🧠 Focused on **TypeScript, Next.js, and full-stack development**.
 
 ---
 
 ## 🛠 Tech Stack
-- ⚙️ JavaScript (ES6+)
-- ⚛️ React
-- 🎨 HTML & CSS
-- 🌱 MongoDB
-- 📦 Git & GitHub
+
+### 💻 Frontend
+
+* ⚛️ React
+* ▲ Next.js
+* 🔷 TypeScript
+* 🎨 HTML5, CSS3 (BEM)
+* 📱 Responsive Design & Accessibility
+
+### ⚙️ Backend
+
+* 🟢 Node.js
+* 🚂 Express.js
+* 🍃 MongoDB (Mongoose)
+* 🔐 REST APIs & Authentication
+
+### 🧰 Tools & Environment
+
+* 💻 macOS (primary development environment)
+* 📦 Git & GitHub
+* 🧪 Postman
+* ☁️ Deployment (Google Cloud / VM)
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
-### [Around the U.S. SPA 🌎](https://github.com/Seri-han/web_project_around_react)
-> A responsive single-page application with authentication, card CRUD functionality, and clean UI.
-- 🔧 Tech Used: React, JavaScript, REST API, HTML, CSS (BEM)
+### 🛒 E-commerce Platform
+
+🔗 https://github.com/Seri-han/ecommerce-platzi-store-v2
+
+> A scalable e-commerce application built with a strong focus on architecture and maintainability.
+
+* 🔧 Tech: React, TypeScript, REST API
+* 🧠 Focus: Typed components, state management, reusable architecture
+* ✨ Features: Product listing, filtering, clean UI structure
+
+---
+
+### ▲ Next.js Project
+
+🔗 https://github.com/Seri-han/nextjs-crash-course
+
+> A modern web application exploring server-side rendering and performance optimization with Next.js.
+
+* 🔧 Tech: Next.js, React, TypeScript
+* 🧠 Focus: SSR, routing, performance
+* ⚡ Features: File-based routing, optimized rendering
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Next.js (App Router, Server Actions)
+* Full-stack architecture & best practices
+* Performance optimization
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srhhndl/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/srhhndl/)
 
 ---
 
-> “**Passionate about accessible web design**” – because everyone deserves a great experience on the web. 🌍
-
+> “Building modern web apps that scale and perform.” ⚡
